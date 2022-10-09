@@ -13,6 +13,7 @@ See below to check out some of my programming experience!
   * Algorithms :game_die:
   * Gaming :video_game:
   * Web development :spider_web:
+  * Memes :hand::joy_cat::ok_hand:
  
 📫 How to reach me:
   * Email: finn.toadsmen@gmail.com
