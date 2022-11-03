@@ -4,10 +4,10 @@ I'm Juda, a math and computer science student from Seattle, Washington. I'm curr
 See below to check out some of my programming experience!
 
 :boom: Work experience:
-  * **Engineering intern at Twitter** ![image](https://user-images.githubusercontent.com/51980777/199668560-983ce557-2c03-46a9-9b66-3681c2747427.png) 
+  * **Engineering intern at Twitter** ![twitter logo](https://user-images.githubusercontent.com/51980777/199670759-b421430e-0765-4f26-a754-9c72e1cafb4e.png)
     * Site-reliability engineering on the Data Platform team
     * Python, Scala
-  * **Engineering intern at Meta (formerly Facebook)** ![image](https://user-images.githubusercontent.com/51980777/199668319-73eb3253-980d-4283-b76f-d9eea59d569d.png)
+  * **Engineering intern at Meta (formerly Facebook)** ![meta and facebook logos](https://user-images.githubusercontent.com/51980777/199668319-73eb3253-980d-4283-b76f-d9eea59d569d.png)
  ![image](https://user-images.githubusercontent.com/51980777/199667649-15b53866-5182-4e84-9334-d300b5367629.png)
     * Full-stack engineering on the Gaming team 
     * JavaScript + React.js, GraphQL + Relay, PHP / Hack
