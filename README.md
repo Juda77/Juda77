@@ -1,4 +1,4 @@
-## 👋 Hi!
+## 👋 Hi! :smirk_cat:
 
 I'm Juda, a math and computer science student from Seattle, Washington. I'm currently looking for 2023 software engineering internships.
 See below to check out some of my programming experience!
